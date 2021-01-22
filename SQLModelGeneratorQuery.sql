@@ -18,7 +18,7 @@
 	PRINT 'using System;'
 	PRINT 'using System.ComponentModel.DataAnnotations;'
 	PRINT ''
-	PRINT 'namespace ' + 'GoalSparks.Models' --  <<--- SET YOUR CLASS NAMESPACE HERE
+	PRINT 'namespace ' + 'MyProject.Models' --  <<--- SET YOUR CLASS NAMESPACE HERE
 	PRINT '{'
 
 	WHILE @@FETCH_STATUS = 0
